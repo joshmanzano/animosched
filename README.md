@@ -6,6 +6,8 @@ This repository is being actively maintained by [Joshua Manzano](https://github.
 
 Previous contributors who made this project possible include [Adrienne Soliven](https://github.com/AdiSol), [Miguel Llamas](https://github.com/miguelllamas), and [Shenn Tinsay](https://github.com/tinsayshenn).
 
+Special thanks to [Briane Samson](https://github.com/brianehenyo), [Jordan Deja](https://github.com/jrdndj), and [Unisse Chua](https://github.com/unissechua) for the invaluable advice during the research and idea building phases of this project. 
+
 
 ## Research
 A research paper based on this work was accepted and presented at the [Conference on Human Factors in Computing Systems](https://en.wikipedia.org/wiki/Conference_on_Human_Factors_in_Computing_Systems).
