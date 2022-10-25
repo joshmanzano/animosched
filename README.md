@@ -4,7 +4,7 @@ A semi-automated scheduling system that utilizes a SAT solver to create schedule
 ## Contributors
 This repository is being actively maintained by [Joshua Manzano](https://github.com/joshmanzano).
 
-Previous contributors who made this project possible include [Miguel Llamas](https://github.com/miguelllamas), [Adrienne Soliven](https://github.com/AdiSol), and [Shenn Tinsay](https://github.com/tinsayshenn).
+Previous contributors who made this project possible include [Adrienne Soliven](https://github.com/AdiSol), [Miguel Llamas](https://github.com/miguelllamas), and [Shenn Tinsay](https://github.com/tinsayshenn).
 
 
 ## Research
