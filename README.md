@@ -15,3 +15,5 @@ A research paper based on this work was accepted and presented at the [Conferenc
 https://programs.sigchi.org/chi/2021/index/content/47532
 
 https://dl.acm.org/doi/10.1145/3411764.3445681?cid=99659319011
+
+https://comet.dlsu.edu.ph/files/2021manzano_sat_scheduler_chi.pdf
