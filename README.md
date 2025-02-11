@@ -1,5 +1,5 @@
 # AnimoSched
-A semi-automated scheduling system that utilizes a SAT solver to create schedules based on specifed constraints, implement with React and Django REST Framework.
+A semi-automated scheduling system that utilizes a SAT solver to create schedules based on specifed constraints, implemented with React and Django REST Framework.
 
 ## Contributors
 This repository is being actively maintained by [Joshua Manzano](https://github.com/joshmanzano).
